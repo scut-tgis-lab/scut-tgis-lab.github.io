@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://scut-tgis-lab.github.io/sitemap.xml
