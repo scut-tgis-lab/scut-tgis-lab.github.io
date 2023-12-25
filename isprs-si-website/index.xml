@@ -1,121 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>logo</title>
+    <title>Isprs-Si-Websites | logo</title>
     <link>https://scut-tgis-lab.github.io/isprs-si-website/</link>
       <atom:link href="https://scut-tgis-lab.github.io/isprs-si-website/index.xml" rel="self" type="application/rss+xml" />
-    <description>logo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <description>Isprs-Si-Websites</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://scut-tgis-lab.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>logo</title>
+      <title>Isprs-Si-Websites</title>
       <link>https://scut-tgis-lab.github.io/isprs-si-website/</link>
     </image>
-    
-    <item>
-      <title>Please contact us with your question, and we will reply as soon as possible.</title>
-      <link>https://scut-tgis-lab.github.io/isprs-si-website/contact/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://scut-tgis-lab.github.io/isprs-si-website/contact/</guid>
-      <description>&lt;style&gt;
-
-  body {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-  }
-h1 {
-    font-size: 1.5em; /* 调整标题字体大小为 1.5 倍默认大小 */
-        text-align: center;
-  }
-  .content {
-    
-    display: flex;
-    align-items: center;
-    padding: 20px;
-    max-width: 1200px;
-  
-    margin: 0 auto;
-  }
-
-  .content &gt; div {
-    flex-grow: 1;
-    margin-right: 127px;
-    flex-direction: column;
-     align-items: center;
-  }
-
-  .content img {
-    width: 100%;
-    max-width: 256px;
-    margin: 0 auto;
-    border-radius: 0;
-    
-  }
-
-  .content &gt; div:last-child {
-    flex-basis: 100%;
-  }
-  .author{
-    width: 100%;
-    height: 100%;
-  }
-  .ProIntroduce{
-    margin-right:0%
-  }
-  h6{
-    style=&#34;font-size: 14px;&#34;
-     margin-top:-3px;
-  }
-    /* 添加媒体查询，定义小屏幕样式 */
-  @media only screen and (max-width: 600px) {
-    p{
-      font-size:9px
-    }
-  .content {
-    display: flex;
-    flex-direction: column; /* 在小屏幕上垂直排列 */
-    align-items: center;
-    padding: 10px;
-    max-width: 1200px;
-    margin: 0 auto;
-    margin-left:13%
-  }
-
-   .content &gt; div {
-    flex-grow: 1;
-    margin-bottom: 10px; /* 在小屏幕上增加间距 */
-    flex-direction: column;
-    align-items: center;
-  }
-  }
-&lt;/style&gt;
-&lt;div class=&#34;content&#34;&gt;
-&lt;div class=&#34;author&#34; style=&#34;display: flex; flex-direction: column; align-items: center;&#34;&gt;
-  &lt;img src=&#34;Dr.ZhiyongWang.png&#34; alt=&#34;左图&#34;&gt;
-  &lt;h4 id=&#34;nH4&#34;&gt;Dr. Zhiyong Wang&lt;/h4&gt;
-  &lt;p&gt;School of Civil Engineering and Transportation&lt;/p&gt;
-  &lt;p&gt;South China University of Technology&lt;/p&gt;
-&lt;/div&gt;
-  &lt;div class=&#34;ProIntroduce&#34;&gt;
-     &lt;h4&gt;Biography&lt;/h4&gt;
-    &lt;p style=&#34;text-align: justify; width:127%&#34;&gt;I am an asssociate professor in the Department of transportation at the South China University of Technology. Before this, I was a postdoc with the Department of human geography and spatial planning at the Utrecht Universit and a postdoc in the GIScience research group at the Heidelberg University, Germany. I hold a PhD degree from the Delft University of Technology, in the Netherlands (graduated on 9 June 2015). My PhD research topic was “Navigation for first responders”, which was supervised by prof.dr. S. Zlatanova and Prof. dr. ir. P.J.M. van Oosterom. My fields of expertise include geomatics (spatial data modeling, processing, management and analysis), artificial intelligence (e.g., multi-agent system, machine learning), path planning, and optimization algorithms, etc. All of my publications can be found in Google Scholar and ResearchGate. I am also the secretary of ISPRS WG IV/8 Digital Twins for Mobility and Navigation.&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
- &lt;div style=&#34;background-color: #f4f4f4; padding: 20px; text-align: center;&#34;&gt;
-    &lt;h2&gt;Contact Us&lt;/h2&gt;
-    &lt;div style=&#34;margin-top: 15px;&#34;&gt;
-      &lt;p&gt;Email: &lt;a style=&#34;color: #007bff; text-decoration: none;&#34;&gt;zwang1984@scut.edu.cn&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;Phone: +135-0308-3186&lt;/p&gt;
-      &lt;p&gt;Location: Wushan RD NO. 381, Guangzhou, Guangdong&lt;/p&gt;
-      &lt;iframe width=&#34;425&#34; height=&#34;350&#34; src=&#34;https://www.openstreetmap.org/export/embed.html?bbox=113.38974237442018%2C23.043345644871266%2C113.4098267555237%2C23.056594252400316&amp;amp;layer=mapnik&#34; style=&#34;border: 1px solid black&#34;&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;small&gt;&lt;a href=&#34;https://www.openstreetmap.org/#map=16/23.0500/113.3998&amp;amp;layers=N&#34;&gt;查看更大的地图&lt;/a&gt;&lt;/small&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

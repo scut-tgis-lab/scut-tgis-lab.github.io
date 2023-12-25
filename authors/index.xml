@@ -14,6 +14,56 @@
     
     <item>
       <title></title>
+      <link>https://scut-tgis-lab.github.io/authors/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://scut-tgis-lab.github.io/authors/home/</guid>
+      <description>&lt;!-- layouts/_default/baseof.html 或其他适用的模板文件 --&gt;
+&lt;!-- layouts/_default/baseof.html 或其他适用的模板文件 --&gt;
+&lt;head&gt;
+    &lt;!-- ... --&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;css/swiper.min.css&#34;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+   &lt;div class=&#34;swiper-container&#34;&gt;
+    &lt;div class=&#34;swiper-wrapper&#34;&gt;
+        &lt;div class=&#34;swiper-slide&#34;&gt;Slide 1&lt;/div&gt;
+        &lt;div class=&#34;swiper-slide&#34;&gt;Slide 2&lt;/div&gt;
+        &lt;div class=&#34;swiper-slide&#34;&gt;Slide 3&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;!-- 如果需要分页器 --&gt;
+    &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;!-- 如果需要导航按钮 --&amp;gt;
+&amp;lt;div class=&amp;quot;swiper-button-prev&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;swiper-button-next&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+
+&amp;lt;!-- 如果需要滚动条 --&amp;gt;
+&amp;lt;div class=&amp;quot;swiper-scrollbar&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;script src=&amp;quot;js/swiper.min.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+&amp;lt;script&amp;gt;
+    var mySwiper = new Swiper (&#39;.swiper-container&#39;, {
+        direction: &#39;vertical&#39;,
+        loop: true,
+        
+        // 如果需要分页器
+        pagination: &#39;.swiper-pagination&#39;,
+        
+        // 如果需要前进后退按钮
+        nextButton: &#39;.swiper-button-next&#39;,
+        prevButton: &#39;.swiper-button-prev&#39;,
+        
+        // 如果需要滚动条
+        scrollbar: &#39;.swiper-scrollbar&#39;,
+    });
+&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/body&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://scut-tgis-lab.github.io/authors/lx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://scut-tgis-lab.github.io/authors/lx/</guid>
